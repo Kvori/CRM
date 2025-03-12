@@ -1,3 +1,5 @@
+# The project is implemented using pure ```JavaScript```.
+
 ## Description project
 
 The project is a web interface for a CRM system, which has the following features:
