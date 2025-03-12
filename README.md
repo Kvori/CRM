@@ -72,4 +72,4 @@ Each contact can be removed from the list by clicking on the cross to the right 
 
 # Usage
 
-To run the application, you must first run the backend server (the instructions for running the backend server are in the folder ccm-backend > readme.md file). Then, using the live server, or install the ```npm serve```, then write the command ```serve -s .\crm-frontend\```
+To run the application, you must first run the backend server (the instructions for running the backend server are in the folder crm-backend > readme.md file). Then, using the live server, or install the ```npm serve```, then write the command ```serve -s .\crm-frontend\```
